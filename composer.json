@@ -1,0 +1,18 @@
+{
+    "name": "walthere/md-for-laravel",
+    "description": "md for laravel5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "walthere",
+            "email": "walthere@vip.qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Walthere\\MD\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
